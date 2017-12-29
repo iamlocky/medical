@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="medical:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/medical_jar</output-path>
+    <root id="archive" name="medical.jar">
+      <element id="module-output" name="medical" />
+      <element id="extracted-dir" path="E:/360安全浏览器下载/gson-2.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
